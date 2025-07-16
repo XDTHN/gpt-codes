@@ -16,7 +16,7 @@
         "summary": "Lấy danh sách mã truy cập GPT",
         "responses": {
           "200": {
-            "description": "Danh sách mã truy cập hợp lệ",
+            "description": "Danh sách mã hợp lệ",
             "content": {
               "application/json": {
                 "schema": {
