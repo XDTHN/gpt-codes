@@ -2,16 +2,16 @@
   "schema_version": "v1",
   "name_for_model": "gpt_code_checker",
   "name_for_human": "Trợ lý Kiểm tra Mã",
-  "description_for_model": "Kiểm tra mã truy cập người dùng bằng cách đối chiếu với danh sách mã hợp lệ và ngày hết hạn trong tệp JSON từ máy chủ bảo mật.",
-  "description_for_human": "Công cụ kiểm tra mã truy cập hợp lệ để sử dụng trợ lý GPTs.",
+  "description_for_model": "Kiểm tra mã truy cập người dùng bằng cách đối chiếu với danh sách mã hợp lệ và ngày hết hạn.",
+  "description_for_human": "Xác minh mã truy cập để sử dụng GPTs.",
   "auth": {
     "type": "none"
   },
   "api": {
     "type": "openapi",
-    "url": "https://xdthn.github.io/openapi.json"
+    "url": "https://xaydungthuonghieunhanh.com/openapi.json"
   },
-  "logo_url": "https://xdthn.github.io/logo.png",
-  "contact_email": "xaydungthuonghieunhanh@gmail.com",
+  "logo_url": "https://xaydungthuonghieunhanh.com/logo.png",
+  "contact_email": "admin@xaydungthuonghieunhanh.com",
   "legal_info_url": "https://xaydungthuonghieunhanh.com/legal"
 }
