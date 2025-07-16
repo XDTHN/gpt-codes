@@ -10,7 +10,7 @@
     }
   ],
   "paths": {
-    "/gpt-codes.json": {
+    "/xaydungthuonghieunhanh686_2025_vanhoa_tritue_gpt_codes.json": {
       "get": {
         "operationId": "getValidCodes",
         "summary": "Lấy danh sách mã truy cập GPT",
